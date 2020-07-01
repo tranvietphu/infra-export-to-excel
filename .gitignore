@@ -1,0 +1,7 @@
+# production
+/build
+/dist
+
+# production
+build/
+dist/
